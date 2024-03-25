@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">API_Assignment</string>
+    <string name="not_have_an_account_register">Create account now!</string>
+    <string name="already_have_an_account_login">Already have an account login?</string>
 </resources>
